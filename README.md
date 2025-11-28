@@ -1,4 +1,4 @@
-# AWS-GoogleCloud-and-Azure-Using-Sensor-Data-Analysis-
+# AWS-GoogleCloud-and-Azure-Using-Sensor-Data-Analysis
 
 A benchmarking tool to compare serverless function performance across AWS Lambda, Google Cloud Functions, and Azure Functions using temperature sensor data analysis.
 
